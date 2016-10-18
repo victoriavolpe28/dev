@@ -1,0 +1,40 @@
+.icons-sprite, .icons-money, .icons-trash {
+  background-image: url('../img/icons-s47e244956d.png');
+  background-repeat: no-repeat;
+}
+
+.icons-money {
+  background-position: 0 -277px;
+}
+.icons-money:hover, .icons-money.money-hover {
+  background-position: 0 0;
+}
+
+.icons-trash {
+  background-position: 0 -915px;
+}
+.icons-trash:hover, .icons-trash.trash-hover {
+  background-position: 0 -554px;
+}
+
+i {
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+}
+li a {
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+}
+li a span {
+  position: absolute;
+  top: -9999em;
+  left: -999em;
+}

@@ -1,0 +1,25 @@
+html{
+background-color: lightgray;
+
+}
+
+
+figure
+{
+text-align: center;
+}
+
+
+ul
+{
+text-align: center;
+}
+
+li{
+ list-style-type: none;
+ }
+ 
+ footer
+ {
+ text-align: center;
+ }
